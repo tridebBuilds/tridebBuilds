@@ -52,8 +52,8 @@ I am a passionate **Front-End Developer** with a strong interest in building int
 
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/your-username](https://github.com/tridebBuilds)
-* LinkedIn: [https://linkedin.com/in/your-profile](www.linkedin.com/in/trideb-sengupta-172aa1195
+* GitHub: (https://github.com/tridebBuilds)
+* LinkedIn: (www.linkedin.com/in/trideb-sengupta-172aa1195
 
 )
 
